@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434915739979",
+    "project_id": "share-anh-app-857ad",
+    "storage_bucket": "share-anh-app-857ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434915739979:android:002c1386adfb57ff9ac0ce",
+        "android_client_info": {
+          "package_name": "com.example.du_an3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75xdHVUTE9tbtjhUQUvjYA1ac_OiGuBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434915739979:android:b1e6cb6f5892aa4b9ac0ce",
+        "android_client_info": {
+          "package_name": "com.example.du_an_3_buoi5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75xdHVUTE9tbtjhUQUvjYA1ac_OiGuBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
